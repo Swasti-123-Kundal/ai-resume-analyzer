@@ -43,10 +43,6 @@ User → React Frontend (Upload Resume + JD)
    MongoDB (Store Results) → Dashboard (Display Results)
 ```
 
-## 📸 Screenshots
-
-> _Add screenshots or a demo GIF of the dashboard, upload flow, and results view here._
-
 ##  Getting Started
 
 ### Prerequisites
