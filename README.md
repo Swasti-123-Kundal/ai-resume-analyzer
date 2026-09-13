@@ -23,7 +23,7 @@ The system returns a structured, hallucination-free JSON response containing:
 
 ##  Tech Stack
 
-| Layer | Technology |
+| Layer | Technology |  
 |---|---|
 | **Frontend** | React.js |
 | **Backend** | Node.js, Express.js |
