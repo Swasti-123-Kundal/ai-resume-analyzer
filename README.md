@@ -9,7 +9,7 @@ Traditional resume screening tools rely on rigid keyword matching, which often m
 
 The system returns a structured, hallucination-free JSON response containing:
 - Overall resume-to-JD match score
-- Matching vs. missing skills 
+- Matching vs. missing skills  
 - A personalized preparation roadmap
 - Dynamically generated technical and behavioral interview questions
 
