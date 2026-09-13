@@ -13,7 +13,7 @@ The system returns a structured, hallucination-free JSON response containing:
 - A personalized preparation roadmap
 - Dynamically generated technical and behavioral interview questions
 
-##  Key Features
+##  Key Features  
 
 - **Context-Aware Skill Gap Analysis** — goes beyond keyword matching by using LLM-based semantic comparison between resume and JD content
 - **Structured, Reliable AI Output** — enforces strict JSON schema on Gemini API responses to prevent hallucinated or inconsistent output, ensuring safe integration with the backend
